@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "core_web_api_postgresql_crud", "core_web_api_postgresql_crud\core_web_api_postgresql_crud.csproj", "{9ED2A898-D8EF-4B4B-A98B-6FA511562B4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data_Layer", "Data_Layer\Data_Layer.csproj", "{CF30BE22-F8EE-4DE0-8441-2B5596AAE560}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ED2A898-D8EF-4B4B-A98B-6FA511562B4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ED2A898-D8EF-4B4B-A98B-6FA511562B4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ED2A898-D8EF-4B4B-A98B-6FA511562B4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ED2A898-D8EF-4B4B-A98B-6FA511562B4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF30BE22-F8EE-4DE0-8441-2B5596AAE560}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF30BE22-F8EE-4DE0-8441-2B5596AAE560}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF30BE22-F8EE-4DE0-8441-2B5596AAE560}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF30BE22-F8EE-4DE0-8441-2B5596AAE560}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACD50E75-48CD-4478-B076-56444CFA8532}
+	EndGlobalSection
+EndGlobal
